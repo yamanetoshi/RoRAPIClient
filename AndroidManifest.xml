@@ -23,6 +23,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="jp.shuri.yamanetoshi.rorapiclient.RoRClientEdit" >
+        </activity>
     </application>
 
 </manifest>
